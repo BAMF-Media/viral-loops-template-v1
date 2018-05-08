@@ -1,0 +1,305 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="icon" href="lp-assets/img/favicon_32x32.png" sizes="32x32">
+    <title>Unicorn Snot </title>
+
+    <!-- Bootstrap -->
+   <script defer src="https://use.fontawesome.com/releases/v5.0.6/js/all.js"></script>
+
+    <link href="lp-assets/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="lp-assets/css/style.css">
+   
+   <!-- AUTOPILOT -->
+    <script type="text/javascript">(function(o){var b="https://api.autopilothq.com/anywhere/",t="46db14cb2b6c4e029dfe742e7ad9e1a97f03db298fd7466ea4051167e80cd414",a=window.AutopilotAnywhere={_runQueue:[],run:function(){this._runQueue.push(arguments);}},c=encodeURIComponent,s="SCRIPT",d=document,l=d.getElementsByTagName(s)[0],p="t="+c(d.title||"")+"&u="+c(d.location.href||"")+"&r="+c(d.referrer||""),j="text/javascript",z,y;if(!window.Autopilot) window.Autopilot=a;if(o.app) p="devmode=true&"+p;z=function(src,asy){var e=d.createElement(s);e.src=src;e.type=j;e.async=asy;l.parentNode.insertBefore(e,l);};y=function(){z(b+t+'?'+p,true);};if(window.attachEvent){window.attachEvent("onload",y);}else{window.addEventListener("load",y,false);}})({});</script>
+    <!-- END AUTOPILOT -->
+
+   <style>
+
+   </style>
+    
+</head>
+
+
+
+
+<body>
+<header>
+    <div class="container-fluid top-fluid">
+        <video poster="" id="bgvid" playsinline autoplay="autoplay" muted loop>
+
+<source src="lp-assets/video/unicorn_snot_pool.mp4" type="video/mp4">
+</video>
+        <div class="container top-container">
+            <div class="row">
+                <div class="col-sm-5 col-lg-6">
+                    <div class="title-box">
+                        <div class="logo">
+                             <a target="blank" href="https://unicornsnot.com/">
+                                <img src="lp-assets/img/UnicornSnotLogo2.png" class="img-responsive" alt="Unicorn snot">
+                            </a>
+                        </div>
+                        <img class="pink img-responsive" src="lp-assets/img/pinkHightRes.png" alt="pink">
+                        <img src="lp-assets/img/yellow.png" alt="" class="img-responsive yellow">
+                    </div>
+                </div>
+                <div class="col-sm-7 col-lg-6">
+                    <div class="email-box">
+                        <h2 class="h2">Coming This Spring<br></h2>
+                        <h1 class="h1 title">
+            
+                            Holographic Glitter Sunscreen
+                        </h1>
+                        <h3 class="subtitle">
+                            Yes Way.
+                        </h3>
+
+<!--                         <form action="" class="send_email">
+                            <input id="email" class="email" type="email" name="email" placeholder="your@email.com">
+                            <input  class="submit_email" type="submit" value="GET ON THE WAITLIST">
+
+                        </form> -->
+
+                    
+                    <form  id="participation_form" class="form participation_form send_email" action="">
+                        <div class="emailWrap ">
+                            <!-- <input type="text" class="input email" placeholder="Name" name="fname" id="fname"> -->
+                            <input type="email" class="input email" placeholder="your@email.com" name="email" id="email">
+                            <input type="submit" class="submit  submitBtn submit_email" value="GET ON THE WAITLIST">
+                        </div>
+
+                    </form>
+
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</header>
+<main>
+
+    <div class="container-fluid referal-fluid">
+        <div class="container referal-container">
+            <div class="row">
+                <h2 class="h2 box-title">Refer Friends = Free Products</h2>
+                <div class="timeline-wrap">
+  
+                     <div data-vl-widget="milestoneWidget"></div>
+
+
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+
+
+
+
+
+
+
+    <div class="catchy-fluid  container-fluid" data-type="background" data-speed="10">
+        <!-- <div class="row">
+            <div class="col-sm-offset-6 col-sm-6">
+                <h2 class="h2 box-title">Glitter Mermaids <br> Wanted</h2>
+            </div>
+        </div> -->
+    </div>
+
+    <div class="features-fluid container-fluid">
+        <div class="container features-container">
+            <h2 class="h2">Pretty Powerful Stuff</h2>
+            <div class="features-list">
+                <div class="feature">
+                    <div class="img-wrap"><img src="lp-assets/img/features/5-sunscreen-SPF.png" alt="Umbrella" class="img-responsive"></div>
+                    <h4 class="name">Protection</h4>
+                    <p class="description">Your skin’s in good hands with Broad Spectrum SPF 30 coverage.
+                    </p>
+
+                </div>
+
+                <div class="feature">
+                    <div class="img-wrap"><img src="lp-assets/img/features/6-sunscreen-longlasting.png" alt="Sun"
+                                               class="img-responsive"></div>
+                    <h4 class="name">Mess-Free</h4>
+                    <p class="description">Sparkle that sticks to you, not your swimsuit.
+                    </p>
+
+                </div>
+
+
+                <div class="feature">
+                    <div class="img-wrap"><img src="lp-assets/img/features/7-sunscreen-waterproof.png" alt="waterproof"
+                                               class="img-responsive"></div>
+                    <h4 class="name">Water Resistant</h4>
+                    <p class="description">Make some waves! We’ll keep you protected for 80 minutes.
+
+                    </p>
+
+                </div>
+
+                 <div class="feature">
+                    <div class="img-wrap"><img src="lp-assets/img/features/8-sunscreen-3-colors.png" alt="3 colors"
+                                               class="img-responsive"></div>
+                    <h4 class="name">Summer Shades</h4>
+                    <p class="description">Sparkle in gold, pink, or blue.</p>
+
+
+                </div>
+
+                <div class="feature">
+                    <div class="img-wrap"><img src="lp-assets/img/features/9-sunscreen-moisturizing.png" alt="moisturizing"
+                                               class="img-responsive"></div>
+                    <h4 class="name">Nourishing</h4>
+                    <p class="description">Moisturize naturally! Beeswax keeps your skin hydrated.
+
+                    </p>
+
+                </div>
+
+                <div class="feature">
+                    <div class="img-wrap"><img src="lp-assets/img/features/10-sunscreen-cosmetic-grade-glitter.png" alt="cosmetic-grade-glitter"
+                                               class="img-responsive"></div>
+                    <h4 class="name">Cosmetic-Grade Glitter</h4>
+                    <p class="description">Safe for face and body.
+
+                    </p>
+
+                </div>
+
+
+            </div>
+
+        </div>
+    </div>
+    <div class="spark-fluid container-fluid">
+        <div class="spark-container container" >
+            <div class="col-md-7 ">
+                <div class="spark-wrap">
+                    <h2 class="h2">
+                        Glitter Bombs Away
+                    </h2>
+                    <p class="spark-text">
+                        The biggest update in glitter history is about to drop. Are you in?
+                    </p>
+                    <form action="" class="send_email">
+                            <input class="email" type="email" placeholder="you@email.com">
+                            <input class="submit_email" type="submit" value="GET ON THE WAITLIST">
+                        </form>
+                </div>
+            </div>
+            <div class="col-md-5">
+                <div class="bottle-wrap">
+                    <img src="lp-assets/img/BlueBottle.png" class="img-responsive" alt="BlueBottle">
+                </div>
+            </div>
+        </div>
+    </div>
+</main>
+<footer>
+    <div class="footer-fluid container-fluid">
+
+        <div class="container footer-container">
+            <div class="footer-links">
+                <div class="socials-wrap">
+                    <div class="footer-logo-wrap">
+                       <a  target="_blank" href="https://unicornsnot.com"><img src="lp-assets/img/footer_logo.png" alt=""></a> 
+                    </div>
+                    <a href="https://www.instagram.com/unicornsnot/"  target="_blank" class="socials inst">
+                        <i class="fab fa-instagram"></i>
+                    </a>
+                    <a href="https://www.facebook.com/unicornsnotbrand/"  target="_blank" class="socials fb">
+                        <i class="fab fa-facebook-square"></i>
+                    </a>
+                    <a href="https://open.spotify.com/user/ocnnqipbbbuxau0voat8hr3n8"  target="_blank" class="socials sp">
+                        <i class="fab fa-spotify"></i>
+                    </a>
+                </div>
+                <div class="show-wrap">
+                    <h3 class="h3">Shop</h3>
+                    <a href="https://unicornsnot.com/collections/glitter-gel-for-body-and-face" target="_blank" class="link">Glitter Gell</a>
+                    <a href="https://unicornsnot.com/collections/lip-gloss" target="_blank" class="link">Lip Gloss</a>
+                    <a href="https://unicornsnot.com/products/unicorn-snot-lip-glitter-kit" target="_blank" class="link">Lip Glitter</a>
+                </div>
+                <!-- <div class="about-wrap">
+                    <h3 class="h3">About</h3>
+                    <a href="#" target="_blank" class="link">Our Story</a>
+                </div> -->
+                <div class="ressources-wrap">
+                    <h3 class="h3">Resources</h3>
+                    <a href="mailto:hello@fctry.com?subject= Unicorn Snot Question " target="_blank" class="link">Help</a>
+                    <a href="mailto:wholesale@fctry.com?subject= I <3 Unicorn Snot" target="_blank" class="link">WholeSale</a>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="copywright-fluid container-fluid">
+        <div class="container copywright-cotainer">
+            <div class="copywright">
+               <a target="blank" href="https://shop.fctry.com/">
+                <img src="lp-assets/img/brand.png" alt="" class="brand">
+                </a>
+                
+                <p class="rights">Unicorn Snot is a brand built by FCTRY. © 2018 Jailbreak Toys, Inc. All rights reserved.</p>
+            </div>
+        </div>
+    </div>
+</footer>
+
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+<script src="lp-assets/js/script.js"></script>
+
+
+
+
+<!-- VL snippet - unicornsnot -->
+<script>!function(){var a=window.VL=window.VL||{};return a.instances=a.instances||{},a.invoked?void(window.console&&console.error&&console.error("VL snippet loaded twice.")):(a.invoked=!0,void(a.load=function(b,c,d){var e={};e.publicToken=b,e.config=c||{};var f=document.createElement("script");f.type="text/javascript",f.id="vrlps-js",f.defer=!0,f.src="https://app.viral-loops.com/client/vl/vl.min.js";var g=document.getElementsByTagName("script")[0];return g.parentNode.insertBefore(f,g),f.onload=function(){a.setup(e),a.instances[b]=e},e.identify=e.identify||function(a,b){e.afterLoad={identify:{userData:a,cb:b}}},e.pendingEvents=[],e.track=e.track||function(a,b){e.pendingEvents.push({event:a,cb:b})},e.pendingHooks=[],e.addHook=e.addHook||function(a,b){e.pendingHooks.push({name:a,cb:b})},e.$=e.$||function(a){e.pendingHooks.push({name:"ready",cb:a})},e}))}();var campaign=VL.load("qQLexygzskE75mZC0Wo9UZCWPmI",{autoLoadWidgets:!0});</script>
+
+
+
+
+<script>
+    $("#participation_form").submit(function (e) {
+        e.preventDefault();
+        participate(document.getElementById("fname").value, document.getElementById("email").value);
+    });
+
+    function participate(fname, email) {
+        //submit the participant to Viral Loops
+        campaign.identify({
+            firstname: fname,
+            email: email
+        });
+    }
+</script>
+
+
+<script>
+    //redirect them to thank-you after signup
+    campaign.addHook("stageChange", function (e) {
+        if (e.stage === "postIdentify") {
+            location.href = "https://unicornsnot.wpengine.com/thankyou";
+        }
+    });
+
+    // if they are already registered, redirect them to the referral page
+    campaign.$(function () {
+        if (this.user && this.user.referralCode) {
+            location.href = "https://unicornsnot.wpengine.com/thankyou";
+        }
+    });
+</script>
+
+
+
+
+
+</body>
+</html>
